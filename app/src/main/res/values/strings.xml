@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="smooth_bottom_bar_description">smooth_bottom_bar_description</string>
+    <string name="news">News</string>
+    <string name="history">History</string>
+    <string name="image">image</string>
+    <string name="close">Close</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="inferensi">Inferensi</string>
+    <string name="time">Time</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="it_seems_you_are_not_connected_to_internet">It Seems You Are Not Connected To Internet</string>
+    <string name="please_check_your_internet_connection">Please Check Your Internet Connection</string>
+    <string name="tf_litevision_is_not_initialized_yet">TfLiteVision is not initialized yet</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="result_text">Hasil: %1$s\nWaktu inferensi: %2$d ms\nWaktu: %3$s</string>
+
+</resources>

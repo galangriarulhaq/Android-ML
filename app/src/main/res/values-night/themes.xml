@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/md_theme_primary_night</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary_night</item>
+        <item name="colorPrimaryContainer">@color/md_theme_primaryContainer_night</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_onPrimaryContainer_night</item>
+        <item name="colorSecondary">@color/md_theme_secondary_night</item>
+        <item name="colorOnSecondary">@color/md_theme_onSecondary_night</item>
+        <item name="colorSecondaryContainer">@color/md_theme_secondaryContainer_night</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_onSecondaryContainer_night</item>
+        <item name="colorTertiary">@color/md_theme_tertiary_night</item>
+        <item name="colorOnTertiary">@color/md_theme_onTertiary_night</item>
+        <item name="colorTertiaryContainer">@color/md_theme_tertiaryContainer_night</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_onTertiaryContainer_night</item>
+    </style>
+</resources>

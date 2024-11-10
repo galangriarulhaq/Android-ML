@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_article"
+        android:title="@string/news"
+        android:icon="@drawable/baseline_article_24" />
+
+    <item
+        android:id="@+id/navigation_analyze"
+        android:title="@string/analyze"
+        android:icon="@drawable/search_insights_24" />
+
+    <item
+        android:id="@+id/navigation_history"
+        android:title="@string/history"
+        android:icon="@drawable/baseline_history_24" />
+
+</menu>
